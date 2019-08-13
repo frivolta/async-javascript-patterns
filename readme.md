@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/frivolta/async-javascript-patterns/master/event_loops/async_header.png" alt="Project logo"></a>
+![](event_loops/async_header.png)
 </p>
 
 <h3 align="center">Async JavaScript Workshop</h3>
@@ -101,12 +101,12 @@ function* fileGenerator(files) {
 
 ### This is a simplyfied version of the node event loop:
 
-[[https://github.com/frivolta/async-javascript-patterns/event_loops/node_event_loop_schema|alt=nodeeventloopschema.png]]
+![](event_loops/node_event_loop_schema.png)
 
 ### An example code of the above schema:
 
-[[https://github.com/frivolta/async-javascript-patterns/event_loops/node_event_loop_code.png|alt=nodeeventloopschemademo]]
+![](event_loops/node_event_loop_code.png)
 
 ### A simplyfied version of the v8 Chrome event loop:
 
-[[https://github.com/frivolta/async-javascript-patterns/event_loops/chrome_event_loop.png|alt=chromeeventloop]]
+![](event_loops/chrome_event_loop.png)
