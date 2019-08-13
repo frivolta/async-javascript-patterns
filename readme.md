@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="" rel="noopener">
 ![](event_loops/async_header.png)
-</p>
 
 <h3 align="center">Async JavaScript Workshop</h3>
 
