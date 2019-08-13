@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/frivolta/async-javascript-patterns/event_loops/async_header.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/frivolta/async-javascript-patterns/master/event_loops/async_header.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Async JavaScript Workshop</h3>
@@ -13,7 +13,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Async JavaScript Workshop, quizzes, demo, explanations, cheatsheets.
     <br> 
 </p>
 
